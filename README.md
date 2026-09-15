@@ -13,14 +13,6 @@ A Java-based Electricity Billing System designed to manage customers, electricit
 * Admin and Staff Role-Based Access
 
 
-# Login Credentials
 
-# Admin Login:
-* Username: admin
-* Password: 1111
-
-# Staff Login:
-* Username: staff
-* Password: password
 
 
